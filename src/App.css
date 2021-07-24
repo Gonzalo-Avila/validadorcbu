@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #e5e3e4;
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: #524e4e;
+}
